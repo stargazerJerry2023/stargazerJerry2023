@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+
+I am a freshman at Boston University
 <!--
 **stargazerJerry2023/stargazerJerry2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
