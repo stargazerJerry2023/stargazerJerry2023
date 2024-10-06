@@ -1,5 +1,5 @@
 <h1><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi,  I'm Gerardo Vega</h1>
-
+<h3 align="center">I'm currently a Sophomore from Boston University</h3>
 
 
 I am a freshman at Boston University
