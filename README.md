@@ -2,7 +2,7 @@
 <h3 align="center">I'm currently a Sophomore from Boston University</h3>
 
 
-I am a freshman at Boston University
+
 <!--
 **stargazerJerry2023/stargazerJerry2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
